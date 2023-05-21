@@ -1,0 +1,366 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Air_Polution_840e9399_7020_4dbb_98f3_32a647c8be9e": {
+        "enabled": true,
+        "groups": []
+      },
+      "Buildings_a7a3389f_e1c1_4456_8450_7ce04da95b89": {
+        "enabled": true,
+        "groups": []
+      },
+      "Electricity_Monitoring_7373d84d_ef9d_4a95_a8e2_b8e5274553b6": {
+        "enabled": true,
+        "groups": []
+      },
+      "Green_Areas_e286e9d2_3141_4583_81fe_862c2cd110bc": {
+        "enabled": true,
+        "groups": []
+      },
+      "HIT_Borders_d8469766_33f1_437e_a470_d7333471aff6": {
+        "enabled": true,
+        "groups": []
+      },
+      "Indoor_Navigation_fb9d5faa_5fc4_422a_9c0d_b61812ef34e2": {
+        "enabled": true,
+        "groups": []
+      },
+      "Infrastructure_f409211c_4a8f_49fd_9079_bea3e8cd810f": {
+        "enabled": true,
+        "groups": []
+      },
+      "Location_Counter_ef769fc0_6a17_4e28_aaca_fe193e16ce24": {
+        "enabled": true,
+        "groups": []
+      },
+      "Nav_Lines_e05f18ad_ec9d_4921_94d4_bede296bcba6": {
+        "enabled": true,
+        "groups": []
+      },
+      "Nav_Points_36ec7274_beb1_4905_be5c_2309e544529d": {
+        "enabled": true,
+        "groups": []
+      },
+      "OC_sensors_eff7979d_c807_4349_9c06_33e015b213b2": {
+        "enabled": true,
+        "groups": []
+      },
+      "Parking_Sensors_e674e713_4477_48ff_ac15_7797829922d4": {
+        "enabled": true,
+        "groups": []
+      },
+      "Soil_Sensors_4812f7cf_6830_408d_a5de_e136de952087": {
+        "enabled": true,
+        "groups": []
+      },
+      "Water_Monitoring_601cc7d8_7817_4265_866c_ef44a66ef96f": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:49f4bf29": {
+        "enabled": true,
+        "groups": []
+      },
+      "קוי_מים_8f7c178f_08ff_48f7_b997_53dbd8bdb8a7": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "Air_Polution_840e9399_7020_4dbb_98f3_32a647c8be9e",
+      "name": "Air_Polution",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Electricity_Monitoring_7373d84d_ef9d_4a95_a8e2_b8e5274553b6",
+      "name": "Electricity_Monitoring",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Indoor_Navigation_fb9d5faa_5fc4_422a_9c0d_b61812ef34e2",
+      "name": "Indoor_Navigation",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Infrastructure_f409211c_4a8f_49fd_9079_bea3e8cd810f",
+      "name": "Infrastructure",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Location_Counter_ef769fc0_6a17_4e28_aaca_fe193e16ce24",
+      "name": "Location_Counter",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "OC_sensors_eff7979d_c807_4349_9c06_33e015b213b2",
+      "name": "OC_sensors",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Nav_Points_36ec7274_beb1_4905_be5c_2309e544529d",
+      "name": "Nav_Points",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Nav_Lines_e05f18ad_ec9d_4921_94d4_bede296bcba6",
+      "name": "Nav_Lines",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Parking_Sensors_e674e713_4477_48ff_ac15_7797829922d4",
+      "name": "Parking_Sensors",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Buildings_a7a3389f_e1c1_4456_8450_7ce04da95b89",
+      "name": "Buildings",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": true,
+        "checkBox_Label": true,
+        "checkBox_Outline": true,
+        "checkBox_Underline": true,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          251,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Extruded",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 2,
+          "comboText": "Random",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "No edge",
+          "editText": "0",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "0.7",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"B_Num\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "6.123e-05",
+          "type": 1
+        },
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 0,
+          "comboText": "Absolute",
+          "editText": "0",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 4
+      },
+      "visible": true
+    },
+    {
+      "geomType": 3,
+      "layerId": "HIT_Borders_d8469766_33f1_437e_a470_d7333471aff6",
+      "name": "HIT_Borders",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": true,
+        "checkBox_Visible": true,
+        "comboBox_Label": null,
+        "comboBox_ObjectType": "Overlay",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": 0,
+          "comboText": "(No border)",
+          "editText": "0",
+          "type": 7
+        },
+        "comboEdit_Opacity": {
+          "comboData": 2,
+          "comboText": "Expression",
+          "editText": "0.5",
+          "type": 5
+        },
+        "fieldExpressionWidget_altitude": "0",
+        "labelHeightWidget": {
+          "comboData": 0,
+          "comboText": "Absolute",
+          "editText": "0",
+          "type": 6
+        },
+        "radioButton_AllFeatures": true,
+        "radioButton_Expression": true,
+        "styleWidget0": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "styleWidget1": {
+          "comboData": 2,
+          "comboText": "Expression",
+          "editText": "0.5",
+          "type": 5
+        },
+        "styleWidget2": {
+          "comboData": 0,
+          "comboText": "(No border)",
+          "editText": "0",
+          "type": 7
+        },
+        "styleWidget3": {},
+        "styleWidget4": {},
+        "styleWidget5": {}
+      },
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Soil_Sensors_4812f7cf_6830_408d_a5de_e136de952087",
+      "name": "Soil_Sensors",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Green_Areas_e286e9d2_3141_4583_81fe_862c2cd110bc",
+      "name": "Green_Areas",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "קוי_מים_8f7c178f_08ff_48f7_b997_53dbd8bdb8a7",
+      "name": "קוי_מים",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Water_Monitoring_601cc7d8_7817_4265_866c_ef44a66ef96f",
+      "name": "Water_Monitoring",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:49f4bf29",
+      "name": "Flat Plane",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Shading": true,
+        "checkBox_Sides": true,
+        "checkBox_Surroundings": false,
+        "checkBox_TransparentBackground": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Color": "0x000000",
+        "comboBox_ClipLayer": "Buildings_a7a3389f_e1c1_4456_8450_7ce04da95b89",
+        "comboBox_TextureSize": 1024,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_ImageFile": "",
+        "radioButton_MapCanvas": true,
+        "spinBox_Opacity": 100,
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3,
+        "toolButton_EdgeColor": "0x000000",
+        "toolButton_SideColor": "0xccbbaa",
+        "toolButton_WireframeColor": "0x000000"
+      },
+      "visible": true
+    }
+  ],
+  "OPT": {
+    "localMode": true,
+    "viewpoint": {
+      "lookAt": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "pos": {
+        "x": -67.43286911254486,
+        "y": -9.929508984765427,
+        "z": 34.55421105084167
+      }
+    }
+  },
+  "OutputFilename": "C:/Users/imark/Desktop/מערך פרויקטים/מכון טכנולוגי/Export_22_07_2022\\index.html",
+  "Template": "3DViewer(dat-gui).html",
+  "Title": "מידול המכון",
+  "Version": 20701
+}

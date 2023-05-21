@@ -1,0 +1,57 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Anthenas_Placement_73b287ce_6041_4ccf_8f81_024093e61722": {
+        "enabled": true,
+        "groups": []
+      },
+      "Buildings_7be338bb_46cd_4127_968a_f35587fc0721": {
+        "enabled": true,
+        "groups": []
+      },
+      "Samples_0f353005_1996_4a59_baf3_2201939ad9ca": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:64a2ce83": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "Anthenas_Placement_73b287ce_6041_4ccf_8f81_024093e61722",
+      "name": "Anthenas_Placement",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Samples_0f353005_1996_4a59_baf3_2201939ad9ca",
+      "name": "Samples",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Buildings_7be338bb_46cd_4127_968a_f35587fc0721",
+      "name": "Buildings",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:64a2ce83",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20701
+}
